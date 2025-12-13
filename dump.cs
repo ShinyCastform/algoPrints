@@ -1,3 +1,6 @@
+using UnityEngine.SceneManagement;
+
+
 public void TakeDamage(int damage)
 {
  health -= damage;
