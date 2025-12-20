@@ -1,2 +1,5 @@
 using UnityEngine.UI;
 using TMPro;
+public Player player;
+public TextMeshProUGUI coinsCounterText;
+public Slider healthSlider; 
