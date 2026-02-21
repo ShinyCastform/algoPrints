@@ -1,9 +1,0 @@
-public int coins = 0;
-
-public void CollectCoins()
-    {
-        coins++;
-        print("Collected coins: " + coins); 
-    }
-
-
